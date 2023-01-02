@@ -1,7 +1,7 @@
 # arvr-colormix
 
 web pencampuran warna menggunakan A-Frame
-wadah bermain ada di foler images
+wadah bermain ada di folder images
 
 dibuat untuk memenuhi tugas AR VR STTBandung
 
